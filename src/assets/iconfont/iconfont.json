@@ -1,0 +1,72 @@
+{
+  "id": "3728021",
+  "name": "oa",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "666885",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "672036",
+      "name": "下拉",
+      "font_class": "xiala",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "1364672",
+      "name": "API监控",
+      "font_class": "APIjiankong",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "2492551",
+      "name": "组织",
+      "font_class": "fl-zuzhi",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "6562585",
+      "name": "费用",
+      "font_class": "feiyong",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "8172472",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "8889547",
+      "name": "团队总览",
+      "font_class": "tuanduizonglan",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "10294636",
+      "name": "开发",
+      "font_class": "developer",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "16391893",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    }
+  ]
+}
